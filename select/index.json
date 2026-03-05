@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "笑顔のおかわり",
+  "base_artist": "JELEE",
+  "createdAt": "2026-03-05T10:45:37.566431Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑顔のおかわり",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_笑顔のおかわり_JELEE.txt"
+    }
+  ]
+}
